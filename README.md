@@ -1,5 +1,7 @@
-# <span style="color:orange"> **PREDICTING CONDITION OF WATER WELLS IN TANZANIA**</span>
+# <span style="color:orange"> **PREDICTING OPERATING CONDITION OF WATER WELLS IN TANZANIA**</span>
+
 ![introduction well](imageWell)
+
 
 This is a machine learning project with models that predict the condition of water wells in Tanzania.
 
